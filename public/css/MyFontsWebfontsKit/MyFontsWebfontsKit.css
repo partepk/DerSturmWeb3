@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "RomanaEF-Book";
+  src: url("webfonts/362861_0_0.eot");
+  src: url("webfonts/362861_0_0.eot?#iefix") format("embedded-opentype"),
+    url("webfonts/362861_0_0.woff2") format("woff2"),
+    url("webfonts/362861_0_0.woff") format("woff"),
+    url("webfonts/362861_0_0.ttf") format("truetype");
+}
